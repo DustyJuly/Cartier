@@ -63,12 +63,10 @@ body {
   background-color: #000;
   color: #fff;
   font-family: 'SFProDisplay-Regular', sans-serif;
-  overflow-x: hidden;
+  
 
 }
-.no-scroll {
-  overflow: hidden;
-}
+
 a {
   text-decoration: none;
   color: inherit;
