@@ -13,7 +13,7 @@ $(function(){
 
   mMenuBtn.on('click', function() {
     mMenu.toggleClass('active');
-    $('body').toggleClass("no-scroll")
+   
   });
 
 
