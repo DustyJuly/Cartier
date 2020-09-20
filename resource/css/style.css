@@ -63,8 +63,7 @@ body {
   background-color: #000;
   color: #fff;
   font-family: 'SFProDisplay-Regular', sans-serif;
-  
-
+  overflow: scroll !important;
 }
 
 a {
